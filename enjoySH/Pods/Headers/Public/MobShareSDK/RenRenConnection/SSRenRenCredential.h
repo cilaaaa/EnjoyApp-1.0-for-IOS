@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/RenRenConnection.framework/Headers/SSRenRenCredential.h

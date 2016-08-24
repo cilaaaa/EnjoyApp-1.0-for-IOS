@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/MailConnection.framework/Headers/ISSMailApp.h

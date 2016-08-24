@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboMusicReader.h

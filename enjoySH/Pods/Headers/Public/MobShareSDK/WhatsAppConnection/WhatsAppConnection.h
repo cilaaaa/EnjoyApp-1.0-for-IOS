@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/WhatsAppConnection.framework/Headers/WhatsAppConnection.h

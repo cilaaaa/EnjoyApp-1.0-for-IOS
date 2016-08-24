@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/InstapaperConnection.framework/Headers/SSInstapaperErrorInfo.h

@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/TencentWeiboConnection.framework/Headers/SSTencentWeiboUser.h

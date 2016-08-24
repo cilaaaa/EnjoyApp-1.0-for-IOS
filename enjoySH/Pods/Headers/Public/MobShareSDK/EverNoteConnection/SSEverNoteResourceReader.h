@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/EverNoteConnection.framework/Headers/SSEverNoteResourceReader.h

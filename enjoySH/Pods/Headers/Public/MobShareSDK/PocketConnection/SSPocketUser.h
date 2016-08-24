@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/PocketConnection.framework/Headers/SSPocketUser.h

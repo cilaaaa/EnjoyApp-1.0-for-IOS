@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/CopyConnection.framework/Headers/SSCopyShareContentEntity.h

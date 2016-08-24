@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/YiXinConnection.framework/Headers/YiXinConnection.h

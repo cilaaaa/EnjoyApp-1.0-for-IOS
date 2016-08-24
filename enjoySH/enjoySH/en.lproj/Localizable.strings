@@ -1,0 +1,133 @@
+/* 
+  Localizable.strings
+  enjoySH
+
+  Created by 陈栋楠 on 15/4/1.
+  Copyright (c) 2015年 陈栋楠. All rights reserved.
+*/
+//first view
+
+"login" = "LOGIN";
+"ACTIVATION" = "ACTIVATION";
+"BROWSE" = "BROWSE";
+"Yet Open" = "Yet Open";
+
+//LOGIN VIEW
+
+"FORGOT PASSWORD" = "FORGOT PASSWORD";
+"USERNAME" = "Name";
+"PASSWORD" = "Password";
+"Username or Password error" = "Username or Password error";
+"Hit" = "Hit";
+"Ok" = "Ok";
+"LOAD" = "Loading";
+"Network Promblem!" = "Network Promblem!";
+
+//forget view
+
+"Your Email?" = "Your Email?";
+"Email Address" = "Email Address";
+"RECORVER" = "RECORVER";
+
+//LEFT VIEW
+
+"HOME" = "Home";
+"POPULAR" = "Popular";
+"POPULAR2" = "POPULAR";
+"FAVORITES" = "Favorites";
+"FAVORITES2" = "FAVORITES";
+"NEARBY" = "Nearby";
+"NEARBY2" = "NEARBY";
+"SETTING" = "Setting";
+"LANGUAGE" = "中文";
+"CANCEL" = "Cancel";
+"SEARCH" = "Search";
+"HELLO" = "Hello Guest";
+"LOGIN" = "Login";
+"Sign Out" = "Sign Out";
+"No more data" = "No more data";
+"Pull up to show more data" = "Pull up to show more data";
+
+//fav view
+
+"Edit" = "Edit";
+"DELETE" = "Delete";
+
+//comment view
+
+"Done" = "Done";
+"RATING" = "RATING";
+"Success to submit!" = "Success to submit!";
+"Please input comment"= "Please input comment";
+"Submit" = "Submit";
+"FOOD" = "Food";
+"ENVIRONMENT" = "Environment";
+"SERVICE" = "Service";
+"VALUE" = "Value";
+
+//review view
+
+"The Client doesn't provide phone number!" = "The Client doesn't provide phone number!";
+"Error!Please Login" = "Error!Please Login";
+"Success to publish" = "Success to publish";
+"Failed to publish" = "Failed to publish,Error Description:";
+"No comment" = "No comment";
+"No menu" = "No menu";
+"COLLECT" = "Favorite";
+"MENU" = "Menu";
+"COMMENT" = "Comment";
+"EVENT" = "Events";
+"Offer" = "Offer";
+"Reviews" = "Reviews";
+"Location" = "Location";
+"You have already collect this client!" = "You have already collect this client!";
+"minutes ago" = "minutes ago";
+"hours ago" = "hours ago";
+"days ago"  = "days ago";
+"Click to show more comment" = "Click to show more comment";
+
+//use view
+
+"ONLY FOR ONE TIME USE" = "ONLY FOR ONE TIME USE";
+"TERMS OF USE" = "TERMS OF USE";
+"MEMBER NUMBER" = "MEMBER NUMBER";
+"No Discount" = "No Discount";
+"To be continued." = "To be continued.";
+"Info" = "Info";
+"Are you sure to use?" = "Are you sure to use?";
+"Yes" = "Yes";
+"No" = "No";
+"You have already used voucher!" = "You have already used voucher!";
+"Sever error" = "Sever error";
+"NOT VALID" = "NOT VALID";
+"Please Login!" = "Please Login!";
+"USE" = "USE";
+"USEVOUCHER" = "USE";
+"USED" = "USED";
+
+
+//list view
+
+"ALL" = "Popular";
+"Score" = "Score";
+"Area" = "Area";
+"Name" = "Name";
+"Distance" = "Distance";
+"Price" = "Price";
+"Sort" = "Sort";
+"Dining" = "Dining";
+"DINING" = "DINING";
+"Nightlife" = "Nightlife";
+"NIGHTLIFE" = "NIGHTLIFE";
+"Health" = "Health";
+"HEALTH" = "HEALTH";
+"Lifestyle" = "Lifestyle";
+"LIFESTYLE"= "LIFESTYLE";
+"Shopping" = "Shopping";
+"SHOPPING" = "SHOPPING";
+"Travel" = "Travel";
+"TRAVEL" = "TRAVEL";
+"Success to collect" = "Success to collect";
+
+//map view
+"Choose a client" = "Choose a client";

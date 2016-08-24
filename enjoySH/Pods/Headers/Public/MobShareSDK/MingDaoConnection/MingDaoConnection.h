@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/MingDaoConnection.framework/Headers/MingDaoConnection.h

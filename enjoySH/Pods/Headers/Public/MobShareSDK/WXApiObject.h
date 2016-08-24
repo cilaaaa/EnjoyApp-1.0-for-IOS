@@ -1,0 +1,1 @@
+../../../MobShareSDK/ShareSDK/Extend/WeChatSDK/WXApiObject.h

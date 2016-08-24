@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/FlickrConnection.framework/Headers/SSFlickrPhoto.h

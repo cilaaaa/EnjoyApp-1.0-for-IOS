@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/VKontakteConnection.framework/Headers/ISSVKontakteApp.h

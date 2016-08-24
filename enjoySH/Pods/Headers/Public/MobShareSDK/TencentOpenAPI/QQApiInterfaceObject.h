@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Extend/QQConnectSDK/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h

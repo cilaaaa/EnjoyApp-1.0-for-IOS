@@ -1,0 +1,9 @@
+platform :ios, '7.0'
+xcodeproj '/Users/chendongnan/Desktop/enjoySH/enjoySH.xcodeproj'
+pod 'MobShareSDK', '~> 2.11.2’
+pod 'MobShareSDK/UI', '~> 2.11.2'
+pod 'MobShareSDK/Comment', '~> 2.11.2'
+pod 'MobShareSDK/Connection', '~> 2.11.2'
+pod 'MobShareSDK/Extend', '~> 2.11.2'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'FMDB', '~> 2.5'

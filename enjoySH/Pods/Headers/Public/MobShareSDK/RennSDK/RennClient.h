@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Extend/RenRenSDK/RennSDK.framework/Headers/RennClient.h

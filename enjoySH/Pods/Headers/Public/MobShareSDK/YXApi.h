@@ -1,0 +1,1 @@
+../../../MobShareSDK/ShareSDK/Extend/YiXinSDK/YXApi.h

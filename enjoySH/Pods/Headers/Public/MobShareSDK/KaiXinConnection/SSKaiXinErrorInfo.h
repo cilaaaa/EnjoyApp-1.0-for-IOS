@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/KaiXinConnection.framework/Headers/SSKaiXinErrorInfo.h

@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Core/ShareSDKCoreService.framework/Headers/ISSCAttachment.h

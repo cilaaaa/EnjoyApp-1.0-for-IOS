@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/GooglePlusConnection.framework/Headers/GooglePlusConnection.h

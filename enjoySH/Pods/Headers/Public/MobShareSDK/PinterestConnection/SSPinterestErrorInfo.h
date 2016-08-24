@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/PinterestConnection.framework/Headers/SSPinterestErrorInfo.h

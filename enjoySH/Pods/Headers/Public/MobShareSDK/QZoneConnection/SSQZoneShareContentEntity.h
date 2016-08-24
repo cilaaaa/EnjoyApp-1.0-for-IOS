@@ -1,0 +1,1 @@
+../../../../MobShareSDK/ShareSDK/Connection/QZoneConnection.framework/Headers/SSQZoneShareContentEntity.h

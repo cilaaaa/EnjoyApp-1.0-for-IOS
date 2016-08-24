@@ -1,0 +1,132 @@
+/* 
+  Localizable.strings
+  enjoySH
+
+  Created by 陈栋楠 on 15/4/1.
+  Copyright (c) 2015年 陈栋楠. All rights reserved.
+*/
+//first view
+
+"login" = "登录";
+"ACTIVATION" = "激活";
+"BROWSE" = "浏览";
+"Yet Open" = "暂未开放";
+
+//LOGIN VIEW
+
+"FORGOT PASSWORD" = "忘记密码";
+"USERNAME" = "用户名称";
+"PASSWORD" = "用户密码";
+"Username or Password error" = "用户名或密码错误";
+"Hit" = "提示";
+"Ok" = "确认";
+"LOAD" = "正在加载";
+"Network Promblem!" = "网络错误！";
+
+//forget view
+
+"Your Email?" = "你的Email地址?";
+"Email Address" = "Email地址";
+"RECORVER" = "重置";
+
+//LEFT VIEW
+
+"HOME" = "主页";
+"POPULAR" = "热门商户";
+"FAVORITES" = "收藏夹";
+"NEARBY" = "附近商户";
+"POPULAR2" = "热门商户";
+"FAVORITES2" = "收藏夹";
+"NEARBY2" = "附近商户";
+"SETTING" = "设置";
+"LANGUAGE" = "English";
+"CANCEL" = "取消";
+"SEARCH" = "搜索";
+"HELLO" = "欢迎，访客";
+"LOGIN" = "登录";
+"Sign Out" = "注销";
+"No more data" = "没有更多数据";
+"Pull up to show more data" = "上拉显示更多数据";
+"Click to show more comment" = "点击查看更多评论";
+
+//fav view
+
+"Edit" = "编辑";
+"DELETE" = "删除";
+
+//comment view
+
+"Done" = "完成";
+"RATING" = "评分";
+"Success to submit!" = "提交评论成功!";
+"Please input comment"= "在这里输入评论";
+"Submit" = "提交";
+"FOOD" = "食物";
+"ENVIRONMENT" = "环境";
+"SERVICE" = "服务";
+"VALUE" = "价格";
+
+//review view
+
+"The Client doesn't provide phone number!" = "该餐厅暂时不提供电话!";
+"Error!Please Login" = "请您先登录!";
+"Success to publish" = "分享成功";
+"Failed to publish" = "分享失败,错误提示:";
+"No comment" = "暂无评论";
+"No menu" = "暂无菜单";
+"COLLECT" = "收藏";
+"MENU" = "菜单";
+"EVENT" = "活动";
+"COMMENT" = "评价";
+"Offer" = "折扣";
+"Reviews" = "评论";
+"Location" = "地点";
+"You have already collect this client!" = "您已经收藏过该商户";
+"minutes ago" = "分钟前";
+"hours ago" = "小时前";
+"days ago"  = "天前";
+
+//use view
+
+"ONLY FOR ONE TIME USE" = "只能使用一次";
+"TERMS OF USE" = "使用事项";
+"MEMBER NUMBER" = "用户卡号";
+"No Discount"= "暂无优惠";
+"To be continued." = "敬请期待";
+"Info" = "信息";
+"Are you sure to use?" = "确认使用吗?";
+"Yes" = "是";
+"No" = "否";
+"You have already used voucher!" = "您已经使用过该券";
+"Sever error" = "服务器错误";
+"NOT VALID" = "无效";
+"Please Login!" = "请登录!";
+"USE" = "用卡";
+"USEVOUCHER" = "用券";
+"USED" = "已使用";
+
+//list view
+
+"ALL" = "热门";
+"Score" = "评分";
+"Area" = "区域";
+"Name" = "商户名";
+"Distance" = "距离";
+"Price" = "价格";
+"Sort" = "排序";
+"Dining" = "餐饮";
+"Nightlife" = "夜生活";
+"Health" = "保健和美容";
+"Lifestyle" = "艺术和生活";
+"Shopping" = "购物";
+"Travel" = "旅行";
+"DINING" = "餐饮";
+"NIGHTLIFE" = "夜生活";
+"HEALTH" = "保健和美容";
+"LIFESTYLE" = "艺术和生活";
+"SHOPPING" = "购物";
+"TRAVEL" = "旅行";
+"Success to collect" = "收藏成功";
+
+//map view
+"Choose a client" = "选一个商户";
